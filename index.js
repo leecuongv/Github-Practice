@@ -1,1 +1,1 @@
-const TrungTin = 'đẹp trai'
+const TrungTin = 'đẹp trai quá nhỉ'
